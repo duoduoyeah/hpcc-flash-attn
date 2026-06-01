@@ -1,0 +1,3 @@
+# The prebuilt wheel (~121 MB) is distributed as a GitHub *release asset* — git/GitHub cannot
+# track files >100 MB without Git LFS. A local copy may live here for convenience (uncommitted).
+*.whl
